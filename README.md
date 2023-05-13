@@ -1,4 +1,4 @@
-# nestjs-crud-example
+# nestjs-crud
 CRUD RESTfull API with NestJs
 
 <p align="center">
